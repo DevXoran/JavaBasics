@@ -1,4 +1,4 @@
-package simplejava;
+package basics;
 
 public class Simple {
     
