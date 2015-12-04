@@ -12,9 +12,12 @@ public class StringInit {
         
         System.out.println(lang);
         System.out.println(ide);
-        System.out.println(db);
+        System.out.println(cdb);
         
         StringBuilder sb1 = new StringBuilder(lang);
+        
+        //We create an empty StringBuilder object.
+        //We append three strings into the object.
         StringBuilder sb2 = new StringBuilder();
         sb2.append("Fields");
         sb2.append(" of ");
